@@ -1,0 +1,1 @@
+https://github.com/didinj/ionic4-react-capacitor
